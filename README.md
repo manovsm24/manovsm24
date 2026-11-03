@@ -1,4 +1,6 @@
 ## Hi there 👋
+## About Me
+- 1st Year Engineering @ UBC
 
 <!--
 **manovsm24/manovsm24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
